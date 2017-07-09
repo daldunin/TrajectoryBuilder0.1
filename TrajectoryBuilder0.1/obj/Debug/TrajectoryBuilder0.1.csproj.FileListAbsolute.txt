@@ -1,0 +1,6 @@
+D:\ВШЭ\Аспирантура\2 год\Диссер\TrajectoryBuilder0.1\TrajectoryBuilder0.1\bin\Debug\TrajectoryBuilder0.1.exe.config
+D:\ВШЭ\Аспирантура\2 год\Диссер\TrajectoryBuilder0.1\TrajectoryBuilder0.1\obj\Debug\TrajectoryBuilder0.1.csprojResolveAssemblyReference.cache
+D:\ВШЭ\Аспирантура\2 год\Диссер\TrajectoryBuilder0.1\TrajectoryBuilder0.1\bin\Debug\TrajectoryBuilder0.1.exe
+D:\ВШЭ\Аспирантура\2 год\Диссер\TrajectoryBuilder0.1\TrajectoryBuilder0.1\bin\Debug\TrajectoryBuilder0.1.pdb
+D:\ВШЭ\Аспирантура\2 год\Диссер\TrajectoryBuilder0.1\TrajectoryBuilder0.1\obj\Debug\TrajectoryBuilder0.1.exe
+D:\ВШЭ\Аспирантура\2 год\Диссер\TrajectoryBuilder0.1\TrajectoryBuilder0.1\obj\Debug\TrajectoryBuilder0.1.pdb
